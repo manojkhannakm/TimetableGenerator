@@ -1,4 +1,4 @@
-# TimetableGenerator
+# Timetable Generator
 
 ### Introduction
 
